@@ -14,6 +14,10 @@ public class DataType {
         System.out.print("Enter your marks : ");
         double marks = s.nextDouble();
 
-        System.out.print("Name :"+name +"\nAge : "+age+ "\nGrade : "+ grade+ "\nRoll No. :"+roll+"\nMarks : "+marks);
+        System.out.println("Name :"+name);
+        System.out.println("Age : "+age);
+        System.out.println("Grade : "+ grade);
+        System.out.println("Roll No. :"+roll);
+        System.out.println("Marks : "+marks);
     }
 }
